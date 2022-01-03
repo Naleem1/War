@@ -6,7 +6,7 @@ HTML
 -add secondary header for rules  
 
 
-JavaScript
+JavaScript:
 Start game
 -2 players
 -deck of cards 
